@@ -1,7 +1,7 @@
 # shortestfizzbuzz
 Attempt at making the shortest fizz buzz.
 
-# Build locally
+## Build locally
 1. First clone the repository
 2. `cd` into the cloned folder and run the following command to compile the program ([provided you have gcc installed](https://gcc.gnu.org/install/binaries.html)):
     ```bash
@@ -11,7 +11,7 @@ Attempt at making the shortest fizz buzz.
     ```bash
     $ ./shortestfizzbuzz
     ```
-# Docker
+## Docker
 1. Run the docker image:
    ```bash
    $ docker run --rm -it samhaq/shortestfizzbuzz
