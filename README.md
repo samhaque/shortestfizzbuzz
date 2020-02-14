@@ -16,3 +16,4 @@ Attempt at making the shortest fizz buzz.
    ```bash
    $ docker run --rm -it samhaq/shortestfizzbuzz
    ```
+   
